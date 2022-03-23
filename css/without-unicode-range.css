@@ -1,0 +1,54 @@
+/* original from https://fonts.googleapis.com/css?family=Ubuntu:300 */
+
+/* cyrillic */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v19/4iCv6KVjbNBYlgoC1CzjtGyNL4U.woff2?cyrillic)
+    format("woff2");
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v19/4iCv6KVjbNBYlgoC1CzjvWyNL4U.woff2?cyrillic-ext)
+    format("woff2");
+}
+/* greek-ext */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v19/4iCv6KVjbNBYlgoC1CzjvGyNL4U.woff2?greek-ext)
+    format("woff2");
+}
+/* greek */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v19/4iCv6KVjbNBYlgoC1Czjs2yNL4U.woff2?greek)
+    format("woff2");
+}
+/* latin-ext */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v19/4iCv6KVjbNBYlgoC1CzjvmyNL4U.woff2?latin-ext)
+    format("woff2");
+}
+/* latin */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/ubuntu/v19/4iCv6KVjbNBYlgoC1CzjsGyN.woff2?latin)
+    format("woff2");
+}
+
+body {
+  font-family: Ubuntu;
+}
